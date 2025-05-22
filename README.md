@@ -46,6 +46,9 @@ The code is kept **simple, clear, and readable** to prioritize learning and main
    pip install pygame
 
 3. **Run the Game:**
+   ```bash
+   python main.py
+   
 ---
 
 ## 🎮 Controls
